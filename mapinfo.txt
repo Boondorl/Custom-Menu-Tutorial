@@ -1,0 +1,70 @@
+ClearEpisodes
+
+Episode e1m1
+{
+	picname = "M_EPI1"
+	Name = "Test1"
+}
+
+Episode e2m1
+{
+	picname = "M_EPI2"
+	Name = "Test2"
+}
+
+Episode e3m1
+{
+	picname = "M_EPI3"
+	Name = "Test3"
+}
+
+Episode e4m1
+{
+	picname = "M_EPI4"
+	Name = "Test4"
+}
+
+Episode e5m1
+{
+	Name = "Test5"
+}
+
+Episode e6m1
+{
+	Name = "Test6"
+}
+
+Episode e7m1
+{
+	Name = "Test7"
+}
+
+Episode e8m1
+{
+	Name = "Test8"
+}
+
+Episode e9m1
+{
+	Name = "Test9"
+}
+
+Episode e10m1
+{
+	Name = "Test10"
+}
+
+Episode e11m1
+{
+	Name = "Test11"
+}
+
+Episode e12m1
+{
+	Name = "Test12"
+}
+
+Episode e13m1
+{
+	Name = "Test13"
+}

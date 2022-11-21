@@ -1,0 +1,9 @@
+ListMenu "EpisodeMenu"
+{
+	Class CustomEpisodeMenu
+	
+	// Ensure it doesn't reach the height limit and turn it
+	// into a generic option menu
+	Position 0, -2147483648
+	Linespacing 0
+}
